@@ -1,0 +1,50 @@
+.bg-mec-col{
+    background-color: #c84869;
+
+}
+.mec-col{
+    color: #c84869;
+}
+
+.btn{
+    border-radius: 50px;
+    color: white;
+}
+
+.btn:hover{
+    background-color: white;
+    border: solid 1px #c84869;
+    color: #c84869;
+}
+
+.bi{
+    font-size: 5rem;
+}
+
+.fev-st{
+    box-shadow:0px 0px 10px black;
+}
+
+.review-head{
+    color: #c84869;
+}
+
+.mc{
+    color:  black;
+}
+
+.mc span{
+    color: gray;
+}
+
+.review-box{
+ background-color: lightgray;
+ border-radius: 50px;
+  
+}
+
+.fas{
+    font-size: 3rem;
+    color: #c84869;
+    transform: rotate(180deg)
+}
